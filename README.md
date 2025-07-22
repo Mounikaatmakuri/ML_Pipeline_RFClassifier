@@ -24,6 +24,5 @@ Category	Tool/Technology
 ☁️ Remote Storage	DagsHub (backed by AWS S3)
 
 # 🧬 Project Structure
-ML_pipeline_RandomForest_Diabetes_dataset/ ├── data/ │ ├── raw/ │ └── processed/ ├── models/ │ └── model.pkl ├── src/ │ ├── preprocess.py │ ├── train.py │ └── evaluate.py ├── dvc.yaml ├── dvc.lock ├── params.yaml ├── README.md └── dagshub.txt
 <img width="1365" height="812" alt="ML_Pipeline" src="https://github.com/user-attachments/assets/79702f9b-b936-4609-96ae-bdb4afa346dc" />
 
