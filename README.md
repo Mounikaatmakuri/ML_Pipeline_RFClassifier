@@ -23,6 +23,6 @@ Category	Tool/Technology
 📊 Experiment Tracking	MLflow
 ☁️ Remote Storage	DagsHub (backed by AWS S3)
 
-# 🧬 Project Structure
+# 🧬 ML Pipeline on Dagshub
 <img width="1365" height="812" alt="ML_Pipeline" src="https://github.com/user-attachments/assets/79702f9b-b936-4609-96ae-bdb4afa346dc" />
 
